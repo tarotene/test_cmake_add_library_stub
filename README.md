@@ -1,0 +1,1 @@
+# test_cmake_add_library_stub
